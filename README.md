@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcba94)](https://github.com/emanuelcba94/README.md)
+
 ## ¡Bienvenido a mi portfolio de Github! 👋
 
 ### Te cuento un poco sobre mi 😀
