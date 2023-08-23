@@ -1,3 +1,7 @@
+
+## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcba94&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcba94)](https://github.com/emanuelcba94/README.md)
 
 ## ¡Bienvenido a mi portfolio de Github! 👋
