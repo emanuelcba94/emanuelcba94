@@ -1,4 +1,3 @@
-![Uploading linkedin-portada-1.jpg…]()
 <h1>¡Bienvenido a mi portfolio de Github! 👋</h1>
 
 <h2>Te cuento un poco sobre mi 😀</h2>
