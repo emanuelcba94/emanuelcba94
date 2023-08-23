@@ -1,3 +1,5 @@
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+ 
 <h1>¡Bienvenido a mi portfolio de Github! 👋</h1>
 
 <h2>Te cuento un poco sobre mi 😀</h2>
