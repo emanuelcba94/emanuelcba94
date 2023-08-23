@@ -5,7 +5,7 @@
 
 ## Mis habilidades y herramientas 📝
 
-* HTML * HTML
+* HTML 
 * CSS
 * SASS
 * Git
