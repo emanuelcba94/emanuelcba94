@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Bonardo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<hr>
+<h2></h2>
 
 - 🌱 I’m currently learning **React, TypeScript and Tailwind.**
 
