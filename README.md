@@ -10,7 +10,7 @@
 <p align="center">I trained at the Digital School of <a href="https://www.coderhouse.com/">Coderhouse</a> Argentina. I also have studies and knowledge in Graphic Design and Photography.
     Currently I am still learning in a self-taught way, developing my skills with HTML, CSS and JavaScript in <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> doing the challenges that they present to solve and in turn creating personal projects.</p>
 
-<h2 align="left">👨‍💻 About Me</h2>
+<h2 align="left">👨‍💻 About me</h2>
 
 - 🌱 I’m currently learning **React, TypeScript and Tailwind.**
 
