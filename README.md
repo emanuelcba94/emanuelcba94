@@ -26,7 +26,7 @@
 </a>
 
 <h2 align="left">💼 Languages, Frameworks and Tools:</h2>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -43,7 +43,7 @@
 
 
 ## 📊 Most Used Language
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={emanuelcba94}&theme={theme_tokyonight}" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcba94&theme=theme_tokyonight" /></p>
 
 
 ## ⏱Streak Stats
