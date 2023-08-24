@@ -23,10 +23,6 @@
 <a href="https://linkedin.com/in/emanuel-bonardo-041b4a15b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
-<a href="mailto:emanuelb94@outlook.com" target="_blank">
-    <img src="https://github.com/emanuelcba94/emanuelcba94/assets/114887861/f8ab80d2-7107-44f0-aa6f-3e5fb8b4caf7" alt="outlook">
-</a>
-
 
 <h2 align="left">💼 Languages, Frameworks and Tools:</h2>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></span>
