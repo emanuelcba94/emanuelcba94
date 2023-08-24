@@ -8,23 +8,21 @@
 
 <h2 align="center">A passionate frontend developer from Argentina</h2>
 <p align="center">I trained at the Digital School of <a href="https://www.coderhouse.com/">Coderhouse</a> Argentina. I also have studies and knowledge in Graphic Design and Photography.
-    Currently I am still learning in a self-taught way, developing my skills with HTML, CSS and JavaScript in <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> doing the challenges that they present to solve and in turn creating personal projects.</p>
-
-<h2 align="left">👨‍💻 About me</h2>
-
+    Currently I am still learning in a self-taught way, developing my skills with HTML, CSS and JavaScript in <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> doing the challenges that they present to solve and in turn creating personal projects.
 - 🌱 I’m currently learning **React, TypeScript and Tailwind.**
 
 - 💬 Ask me about **HTML, CSS and JavaScript.**
     
 - 📧 How to reach me **emanuelb94@outlook.com**
 
-<h2 align="left">📫 Connect me</h2>
 <a href="https://linkedin.com/in/emanuel-bonardo-041b4a15b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
 <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
 </a>
+
+</p>
 
 <h2 align="left">💼 Languages, Frameworks and Tools:</h2>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></span>
