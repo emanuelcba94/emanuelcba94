@@ -11,13 +11,13 @@
     Currently I am still learning in a self-taught way, developing my skills with HTML, CSS and JavaScript in <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> doing the challenges that they present to solve and in turn creating personal projects.
 </p>
 
-<br>
+<br/>
 
 <div align="center">
     
-🌱 I’m currently learning **React, TypeScript and Tailwind.**
+🌱 I’m currently learning **React, TypeScript and Tailwind**
     
-💬 Ask me about **HTML, CSS and JavaScript.**
+💬 Ask me about **HTML, CSS and JavaScript**
 
 📧 How to reach me **emanuelb94@outlook.com**
 
