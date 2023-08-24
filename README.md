@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Emanuel Bonardo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+<p align="center">I trained at the Digital School of [Coderhouse](https://www.coderhouse.com/) Argentina. I also have studies and knowledge in Graphic Design and Photography.
+Currently I am still learning in a self-taught way, developing my skills with HTML, CSS and JavaScript in [Frontend Mentor](https://www.frontendmentor.io/home) doing the challenges
+that they present to solve and in turn creating personal projects.</p>
 
 <h2></h2>
 
@@ -11,7 +14,6 @@
 
 - 📧 How to reach me **emanuelb94@outlook.com**
 
-<hr>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
