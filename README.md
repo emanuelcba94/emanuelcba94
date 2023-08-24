@@ -40,10 +40,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelcba94" alt="emanuelcba94" /></a> </p>
 
 ## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcba94&show_icons=true&theme=tokyonight)
 
-## 📊 Most Used Language 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcba94&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+
+## 📊 Most Used Language
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={emanuelcba94}&theme={theme_tokyonight}" /></p>
+
 
 ## ⏱Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelcba94&" alt="emanuelcba94" /></p>
