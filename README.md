@@ -1,7 +1,7 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=emanuelcba94&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcba94"/></p>
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF7300&width=435&lines=Hi+%F0%9F%91%8B%2C+Welcome!+;I'm+Emanuel+Bonardo!" alt="Typing SVG" /></a>
+<h1 align="left">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF7300&width=435&lines=Hello!%F0%9F%91%8B;I'am+Emanuel+Bonardo!" alt="Typing SVG" /></a>
 </h1>
 
 ![github-portada](https://github.com/emanuelcba94/emanuelcba94/assets/114887861/c3749072-8a1a-49b7-a545-578ff46399ce)
@@ -17,7 +17,7 @@
     
 🌱 I’m currently learning **React, TypeScript and Tailwind**
     
-💬 Ask me about **HTML, CSS and JavaScript**
+💬 Ask me about **HTML and CSS**
 
 📧 How to reach me **emanuelb94@outlook.com**
 
