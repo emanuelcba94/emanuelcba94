@@ -1,8 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=emanuelcba94&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcba94" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7300&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
-
-<h1 align="center">Hi 👋, I'm Emanuel Bonardo</h1> 
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF7300&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Emanuel+Bonardo" alt="Typing SVG" /></a> </h1>
 
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
