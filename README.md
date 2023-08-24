@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'am+Emanuel+Bonardo;Welcome+to+my+profile!+;Front+End+Developer" alt="Typing SVG" /></a>
+
 ## ¡Bienvenido a mi portfolio de Github! 👋
 
 ### Te cuento un poco sobre mi 😀
