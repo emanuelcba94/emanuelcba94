@@ -24,4 +24,3 @@ Estoy aprendiendo Desarrollo Web Front-End en [Coderhouse](https://www.coderhous
 
 
 
-![developer](https://github.com/emanuelcba94/emanuelcba94/assets/114887861/8d2963ed-f0b5-4ad0-a7c6-115d3c9fa9fd)
