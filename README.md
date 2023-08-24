@@ -21,6 +21,8 @@
 
 📧 How to reach me **emanuelb94@outlook.com**
 
+🔍 You can see my profile and challenges in **<a href="https://www.frontendmentor.io/profile/emanuelcba94">Frontend Mentor</a>**
+
 </div>
 
 <h2 align="left">📫 Connect me</h2>
