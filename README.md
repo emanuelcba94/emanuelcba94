@@ -43,7 +43,7 @@
 
 
 ## 📊 Most Used Language
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcba94&theme=theme_tokyonight" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcba94&theme=tokyonight" /></p>
 
 
 ## ⏱Streak Stats
