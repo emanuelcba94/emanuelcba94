@@ -14,9 +14,9 @@
 <br>
 
 <div align="center">
-<p>🌱 I’m currently learning **React, TypeScript and Tailwind.**</p>
-<p>💬 Ask me about **HTML, CSS and JavaScript.**</p>
-<p>📧 How to reach me **emanuelb94@outlook.com**</p>
+<p> - 🌱 I’m currently learning **React, TypeScript and Tailwind.**</p>
+<p> - 💬 Ask me about **HTML, CSS and JavaScript.**</p>
+<p> - 📧 How to reach me **emanuelb94@outlook.com**</p>
 </div>
 
 <h2 align="left">📫 Connect me</h2>
