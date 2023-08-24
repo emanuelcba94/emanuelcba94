@@ -10,13 +10,14 @@
 <p align="center">I trained at the Digital School of <a href="https://www.coderhouse.com/">Coderhouse</a> Argentina. I also have studies and knowledge in Graphic Design and Photography.
     Currently I am still learning in a self-taught way, developing my skills with HTML, CSS and JavaScript in <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> doing the challenges that they present to solve and in turn creating personal projects.
 </p>
-<p align="center">
-- 🌱 I’m currently learning **React, TypeScript and Tailwind.**
-    
-- 💬 Ask me about **HTML, CSS and JavaScript.**
-    
-- 📧 How to reach me **emanuelb94@outlook.com**
-</p>
+
+<br>
+
+<div align="center">
+🌱 I’m currently learning **React, TypeScript and Tailwind.**
+💬 Ask me about **HTML, CSS and JavaScript.**
+📧 How to reach me **emanuelb94@outlook.com**
+</div>
 
 <h2 align="left">📫 Connect me</h2>
 <a href="https://linkedin.com/in/emanuel-bonardo-041b4a15b" target="_blank">
