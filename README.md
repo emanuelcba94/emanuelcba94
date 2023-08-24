@@ -1,6 +1,6 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=emanuelcba94&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcba94"/></p>
 
-<h1 align="left">
+<h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF7300&width=435&lines=Hello!%F0%9F%91%8B;I'am+Emanuel+Bonardo!" alt="Typing SVG" /></a>
 </h1>
 
