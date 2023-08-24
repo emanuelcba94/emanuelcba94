@@ -1,6 +1,8 @@
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelcba94" alt="emanuelcba94" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=emanuelcba94&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcba94" /> </p>
 
-<h1 align="center">Hi 👋, I'm Emanuel Bonardo</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7300&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7300&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
+
+<h1 align="center">Hi 👋, I'm Emanuel Bonardo</h1> 
 
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
@@ -26,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelcba94&" alt="emanuelcba94" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelcba94&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcba94" /> </p>
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelcba94" alt="emanuelcba94" /></a> </p>
