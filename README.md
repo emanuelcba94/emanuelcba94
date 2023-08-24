@@ -1,6 +1,6 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=emanuelcba94&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcba94"/></p>
 
-<h1 align="center">Hi 👋, I'm Emanuel Bonardo</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF7300&width=435&lines=Hi+%F0%9F%91%8B%2C+Welcome!+;I'm+Emanuel+Bonardo!" alt="Typing SVG" /></a>
 
 ![github-portada](https://github.com/emanuelcba94/emanuelcba94/assets/114887861/c3749072-8a1a-49b7-a545-578ff46399ce)
 
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
 
 ## 🏆 Trophy Stats 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelcba94" alt="emanuelcba94" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelcba94&theme=tokyonight" alt="emanuelcba94" /></a> </p>
 
 ## 📈 GitHub Stats 
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emanuelcba94&theme=tokyonight" /></p>
@@ -44,8 +44,7 @@
 ## 📊 Most Used Language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcba94&theme=tokyonight" /></p>
 
-
 ## ⏱Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelcba94&" alt="emanuelcba94" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelcba94&theme=tokyonight" alt="emanuelcba94" /></p>
 
 
