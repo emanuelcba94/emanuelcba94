@@ -17,7 +17,7 @@
    
 🔍 You can see my profile and challenges in **<a href="https://www.frontendmentor.io/profile/emanuelcba94">Frontend Mentor</a>**
 
-🌱 I’m currently learning **React and TypeScript**
+🌱 I’m currently learning **React, TypeScript and Tailwind**
 
 📧 How to reach me **emanuelb94@outlook.com**
 
