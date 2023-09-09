@@ -7,15 +7,15 @@
 ![github-portada](https://github.com/emanuelcba94/emanuelcba94/assets/114887861/c3749072-8a1a-49b7-a545-578ff46399ce)
 
 <h2 align="center">A passionate frontend developer from Argentina</h2>
-<p align="center">I trained at the Digital School of <a target="_blank" href="https://www.coderhouse.com/">Coderhouse</a> Argentina. I also have studies and knowledge in Graphic Design and Photography.
-    Currently I am still learning in a self-taught way, developing my skills with HTML, CSS and JavaScript in <a target="_blank" href="https://www.frontendmentor.io/home">Frontend Mentor</a> doing the challenges that they present to solve and in turn creating personal projects.
+<p align="center">I trained at the Digital School of <a href="https://www.coderhouse.com/">Coderhouse</a> Argentina. I also have studies and knowledge in Graphic Design and Photography.
+    Currently I am still learning in a self-taught way, developing my skills with HTML, CSS and JavaScript in <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> doing the challenges that they present to solve and in turn creating personal projects.
 </p>
 
 <br/>
 
 <div align="center">
    
-🔍 You can see my profile and challenges in **<a target="_blank" href="https://www.frontendmentor.io/profile/emanuelcba94">Frontend Mentor</a>**
+🔍 You can see my profile and challenges in **<a href="https://www.frontendmentor.io/profile/emanuelcba94">Frontend Mentor</a>**
 
 🌱 I’m currently learning **React, TypeScript and Tailwind**
 
